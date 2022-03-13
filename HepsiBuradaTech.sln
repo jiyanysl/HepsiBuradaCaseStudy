@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiBuradaTech", "HepsiBuradaTech\HepsiBuradaTech.csproj", "{4F6CF6B4-8D43-4CA1-B8B9-12E136B474DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiBuradaTech.Test", "HepsiBuradaTech.Test\HepsiBuradaTech.Test.csproj", "{99198F21-8C98-4F9C-969A-2A141907E082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6CF6B4-8D43-4CA1-B8B9-12E136B474DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6CF6B4-8D43-4CA1-B8B9-12E136B474DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6CF6B4-8D43-4CA1-B8B9-12E136B474DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6CF6B4-8D43-4CA1-B8B9-12E136B474DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99198F21-8C98-4F9C-969A-2A141907E082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99198F21-8C98-4F9C-969A-2A141907E082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99198F21-8C98-4F9C-969A-2A141907E082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99198F21-8C98-4F9C-969A-2A141907E082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8351C0-62DE-4BAE-8C3D-9A675F9A006B}
+	EndGlobalSection
+EndGlobal
